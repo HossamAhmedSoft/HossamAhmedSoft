@@ -46,6 +46,14 @@ I prioritize clean architecture, automated testing, end-to-end type safety, and 
 
 ---
 
+## 👥 Experience & Community Leadership
+
+- **HR Team Member — GDG NCTU** (NCTU Campus · Session 2026)  
+  *Category:* Student Community Leadership & Human Resources  
+  *Focus:* Member onboarding, engagement follow-up, participation tracking, and HR process improvement — directly motivating the development of the automated [GDG NCTU Operations & HR Platform](https://github.com/HossamAhmedSoft/hr-management-platform).
+
+---
+
 ## 🚀 Featured Engineering Projects
 
 ### 1. [GDG NCTU Operations & HR Platform](https://github.com/HossamAhmedSoft/hr-management-platform)
