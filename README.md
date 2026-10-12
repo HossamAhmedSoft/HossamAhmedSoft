@@ -26,6 +26,26 @@ I prioritize clean architecture, automated testing, end-to-end type safety, and 
 
 ---
 
+## 🏆 Certifications & Achievements
+
+### Oracle Academy
+- [Database Programming with SQL](certificates/oracle-database-programming-sql.jpg) — December 27, 2022 *(Course Final Exam Award)*
+- [Database Design](certificates/oracle-database-design.jpg) — December 27, 2022 *(Course Final Exam Award)*
+- [Database Foundations](certificates/oracle-database-foundations.jpg) — December 27, 2022 *(Course Final Exam Award)*
+- [Java Programming](certificates/oracle-java-programming.jpg) — March 13, 2023 *(Course Final Exam Award)*
+- [Java Fundamentals](certificates/oracle-java-fundamentals.jpg) — March 24, 2022 *(Course Final Exam Award)*
+- [Java Foundations](certificates/oracle-java-foundations.jpg) — March 25, 2022 *(Course Final Exam Award)*
+
+### Microsoft
+- [Microsoft Technology Associate (MTA): Introduction to Programming Using Java](certificates/microsoft-mta-java.jpg) — April 15, 2022 *(Industry Certification — Certiport: `PEaA-uSHc`)*
+
+### Robotics & Competitions
+- [RoboCup MICA Egypt 2023](certificates/robocup-mica-egypt-2023.jpg) — Participation in the Line Follower Robot competition.
+
+> 📁 *Complete credential details and high-resolution assets are indexed in the [certificates directory](certificates/README.md).*
+
+---
+
 ## 🚀 Featured Engineering Projects
 
 ### 1. [GDG NCTU Operations & HR Platform](https://github.com/KabtinBandar/hr-management-platform)
