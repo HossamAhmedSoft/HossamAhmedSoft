@@ -46,7 +46,7 @@ I prioritize clean architecture, automated testing, end-to-end type safety, and 
 - Implements stateless JWT authentication, role-based route security (`ROLE_ADMIN`, `ROLE_USER`), HikariCP connection pooling, and leave request lifecycle tracking.
 - Validated with Apache Maven (`BUILD SUCCESS` on Java 21 LTS).
 
-### 4. [University Student Information System (SIS)](https://github.com/KabtinBandar/SIS)
+### 4. [University Student Information System (SIS)](https://github.com/KabtinBandar/student-information-system-cli)
 > **Stack:** Modern C++ (C++17), Object-Oriented Architecture, Visual Studio Solution
 - High-performance terminal ERP with dedicated portals for Students, Professors, and Administrators.
 - Features credit-weighted GPA calculation, course enrollment, lecture hall scheduling, attendance records, and file persistence.
@@ -56,7 +56,7 @@ I prioritize clean architecture, automated testing, end-to-end type safety, and 
 - Modern graphical desktop application implementing AES (128/192/256-bit, CBC/ECB), RSA key pair generation (512-2048 bit), and SHA-1 cryptographic hashing.
 - Integrated with FlatLaf dark/light theme switching, SVG vector graphics, and custom animated navigation.
 
-### 6. [MDBoutique E-Commerce Platform & PWA](https://github.com/KabtinBandar/MDStore)
+### 6. [MDBoutique E-Commerce Platform & PWA](https://github.com/KabtinBandar/mdboutique-ecommerce-pwa)
 > **Stack:** HTML5, CSS3, JavaScript ES6+, Service Workers (PWA), Supabase
 - Responsive luxury retail storefront and Progressive Web App with offline caching (`sw.js`).
 - Complete purchasing flow: product catalog, instant client-side filtering, persistent cart, checkout, payment confirmation, and administrative product management.
