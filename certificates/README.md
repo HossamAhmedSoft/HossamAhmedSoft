@@ -1,6 +1,6 @@
 # Official Certificates & Credentials Index
 
-This directory contains verified credentials, professional course completions, and competition certificates for **Hossam Ahmed** ([@KabtinBandar](https://github.com/KabtinBandar)).
+This directory contains verified credentials, professional course completions, and competition certificates for **Hossam Ahmed** ([@HossamAhmedSoft](https://github.com/HossamAhmedSoft)).
 
 All images are authentic scans/photos of the physical and digital credentials awarded by respective institutions.
 
