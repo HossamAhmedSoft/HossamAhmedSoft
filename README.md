@@ -95,6 +95,7 @@ I prioritize clean architecture, automated testing, end-to-end type safety, and 
 - **[Java Birthdate & Age Calculator](https://github.com/KabtinBandar/java-birthdate-calc-exercise):** Java console application demonstrating file reading, `SimpleDateFormat` parsing, and calendar boundary arithmetic.
 - **[Java Swing Login Prototype](https://github.com/KabtinBandar/java-swing-login-prototype):** Graphical desktop authentication prototype with Event Dispatch Thread lifecycle management.
 - **[MDBoutique PWA Prototype](https://github.com/KabtinBandar/mdstore-prototype-archive):** Early prototype archive of the MDBoutique progressive web application.
+- **[Java Centigrade & Water Phase State Calculator](https://github.com/KabtinBandar/java-centigrade-phase-calculator):** Thermodynamic physics calculator computing thermal states, phase transitions, and temperature thresholds.
 - **[Vanilla JS Currency Converter](https://github.com/KabtinBandar/vanilla-js-currency-converter):** Bidirectional currency conversion calculator with live input synchronization.
 
 ---
