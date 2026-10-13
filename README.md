@@ -1,8 +1,16 @@
-# Hossam Ahmed (`@HossamAhmedSoft`)
-### Software Engineer & Computer Science Student
-
-📍 Cairo, Egypt | 💻 ICT Year 2, New Cairo Technological University (NCTU)  
-🔗 [GitHub Profile](https://github.com/HossamAhmedSoft) | 🌐 [Interactive Portfolio Website](https://github.com/HossamAhmedSoft/portfolio-website) | ✉️ Contact: `Kabtinhosa@yahoo.com`
+<table>
+  <tr>
+    <td width="150" valign="middle" align="center">
+      <img src="assets/profile/hossam-ahmed.jpg" width="130" alt="Hossam Ahmed" style="border-radius: 50%;" />
+    </td>
+    <td valign="middle">
+      <h1>Hossam Ahmed (<code>@HossamAhmedSoft</code>)</h1>
+      <p><strong>Software Developer | Backend & Full-Stack Engineering | Embedded Systems & AI Enthusiast</strong></p>
+      <p>📍 Cairo, Egypt | 💻 ICT Year 2, New Cairo Technological University (NCTU)<br>
+      🔗 <a href="https://github.com/HossamAhmedSoft">GitHub Profile</a> | 🌐 <a href="https://github.com/HossamAhmedSoft/portfolio-website">Interactive Portfolio Website</a> | ✉️ Contact: <code>Kabtinhosa@yahoo.com</code></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -26,9 +34,27 @@ I prioritize clean architecture, automated testing, end-to-end type safety, and 
 
 ---
 
-## 🏆 Certifications & Achievements
+## 👥 Community Experience
 
-### Oracle Academy
+### Core Team HR Specialist — GDG NCTU
+- **Organization:** Google Developer Group on Campus, New Cairo Technological University (GDG NCTU)
+- **Role:** Core Team HR Specialist
+- **Team:** Community & Membership Committee
+- **Location:** New Cairo Technological University, Egypt
+- **Academic Year:** 2025–2026
+- **Duration:** Across two sessions
+
+> *“Contributed to HR and community operations at GDG NCTU, supporting member engagement, communication, and community activities across two sessions.”*
+
+This operational experience directly motivated the engineering of the automated **[GDG NCTU Operations & HR Platform](https://github.com/HossamAhmedSoft/hr-management-platform)** (Next.js 14, TypeScript, Supabase, 17 operational governance modules).
+
+---
+
+## 🏆 Certifications & Recognition
+
+### Technical Certifications
+
+#### Oracle Academy
 - [Database Programming with SQL](certificates/oracle-database-programming-sql.jpg) — December 27, 2022 *(Course Final Exam Award)*
 - [Database Design](certificates/oracle-database-design.jpg) — December 27, 2022 *(Course Final Exam Award)*
 - [Database Foundations](certificates/oracle-database-foundations.jpg) — December 27, 2022 *(Course Final Exam Award)*
@@ -36,55 +62,65 @@ I prioritize clean architecture, automated testing, end-to-end type safety, and 
 - [Java Fundamentals](certificates/oracle-java-fundamentals.jpg) — March 24, 2022 *(Course Final Exam Award)*
 - [Java Foundations](certificates/oracle-java-foundations.jpg) — March 25, 2022 *(Course Final Exam Award)*
 
-### Microsoft
+#### Microsoft
 - [Microsoft Technology Associate (MTA): Introduction to Programming Using Java](certificates/microsoft-mta-java.jpg) — April 15, 2022 *(Industry Certification — Certiport: `PEaA-uSHc`)*
 
-### Robotics & Competitions
+#### Competitions & Robotics
 - [RoboCup MICA Egypt 2023](certificates/robocup-mica-egypt-2023.jpg) — Participation in the Line Follower Robot competition.
 
-> 📁 *Complete credential details and high-resolution assets are indexed in the [certificates directory](certificates/README.md).*
+> 📁 *Complete technical credential details and high-resolution assets are indexed in the [certificates directory](certificates/README.md).*
 
----
+### Community Recognition & Participation
+- **[Certificate of Appreciation — GDG NCTU](assets/gdg-nctu/hr-specialist-certificate.png):** Awarded for successfully serving as Google Developer Group on Campus Core Team HR Specialist at New Cairo Technological University, Egypt (Academic Year 2025–2026, Verification Code: `NCTU-GDG26-KHASHAB-FKJCFD`).
+- **[GDG NCTU Team Introduction Graphic](assets/gdg-nctu/team-introduction.jpg):** Community & Membership Committee — Human Resource Specialist.
+- **[GDG NCTU Season 1 Finale Graphic](assets/gdg-nctu/season-1-finale.jpg):** Celebrating a season of learning, building, and growing with the community.
 
-## 👥 Experience & Community Leadership
-
-- **HR Team Member — GDG NCTU** (NCTU Campus · Session 2026)  
-  *Category:* Student Community Leadership & Human Resources  
-  *Focus:* Member onboarding, engagement follow-up, participation tracking, and HR process improvement — directly motivating the development of the automated [GDG NCTU Operations & HR Platform](https://github.com/HossamAhmedSoft/hr-management-platform).
+<p align="center">
+  <a href="assets/gdg-nctu/hr-specialist-certificate.png">
+    <img src="assets/gdg-nctu/hr-specialist-certificate.png" width="460" alt="Certificate of Appreciation — GDG NCTU Core Team HR Specialist" />
+  </a>
+</p>
 
 ---
 
 ## 🚀 Featured Engineering Projects
 
-### 1. [GDG NCTU Operations & HR Platform](https://github.com/HossamAhmedSoft/hr-management-platform)
+### 1. [Troy FireBot — Autonomous IoT Firefighting Robot](https://github.com/HossamAhmedSoft/arduino-robotics-and-embedded-systems)
+<img src="assets/branding/troy-developers-logo.png" width="75" align="right" alt="Troy Developers Logo" />
+
+> **Team:** Troy Developers | **Stack:** Arduino, ESP32-CAM, C++17, Node.js, WebSockets | **Status:** Tested & Operational
+- Autonomous robotic firefighting platform combining embedded sensor triangulation (5-channel flame array, MQ-2 gas sensor), dual L298N motor drivers, and browser-based WebSocket telemetry control room.
+- Engineered by the Troy Developers team; demonstrated and tested at RoboCup MICA Egypt 2023.
+
+### 2. [GDG NCTU Operations & HR Platform](https://github.com/HossamAhmedSoft/hr-management-platform)
 > **Stack:** Next.js 14, TypeScript, Tailwind CSS, Supabase, Radix UI | **Status:** Production Deployed
 - Centralized human resources and member performance platform governing 17 operational modules for Google Developer Groups (GDG) on Campus NCTU.
 - Features multi-role RBAC, individual points ledger isolation, smart reminders, automated PDF report generation, and Egyptian calendar compliance.
 - 100% strict TypeScript verified; full bilingual internationalization (English & Arabic).
 
-### 2. [Enterprise Employee Management REST API](https://github.com/HossamAhmedSoft/employee-management-api)
+### 3. [Enterprise Employee Management REST API](https://github.com/HossamAhmedSoft/employee-management-api)
 > **Stack:** Spring Boot 3, Java 21, Spring Security 6, JWT, JPA / Hibernate, Oracle
 - Production-grade REST backend for organizational employee and department governance.
 - Implements stateless JWT authentication, role-based route security (`ROLE_ADMIN`, `ROLE_USER`), HikariCP connection pooling, and leave request lifecycle tracking.
 - Validated with Apache Maven (`mvnw test-compile` clean build on Java 21 LTS).
 
-### 3. [Classical Cryptography & Cipher Toolkit](https://github.com/HossamAhmedSoft/classical-cryptography-toolkit)
+### 4. [Classical Cryptography & Cipher Toolkit](https://github.com/HossamAhmedSoft/classical-cryptography-toolkit)
 > **Stack:** Python 3, Tkinter, Pytest | **Status:** 69/69 Automated Tests Passing
 - Comprehensive desktop application and CLI implementing Caesar, Vigenère, and Rail Fence ciphers.
 - Features traditional Tabula Recta lookup, modular arithmetic solvers, brute-force search, and bilingual support (Arabic 28 letters & English 26 letters).
 - Backed by an automated test suite achieving 100% pass rate in 0.023s.
 
-### 4. [University Student Information System (SIS)](https://github.com/HossamAhmedSoft/student-information-system-cli)
+### 5. [University Student Information System (SIS)](https://github.com/HossamAhmedSoft/student-information-system-cli)
 > **Stack:** Modern C++ (C++17), Object-Oriented Architecture, Visual Studio Solution
 - High-performance terminal ERP with dedicated portals for Students, Professors, and Administrators.
 - Features credit-weighted GPA calculation, course enrollment, lecture hall scheduling, attendance records, and file persistence.
 
-### 5. [Java Cryptography & Security Desktop Suite](https://github.com/HossamAhmedSoft/crypto-desktop-suite)
+### 6. [Java Cryptography & Security Desktop Suite](https://github.com/HossamAhmedSoft/crypto-desktop-suite)
 > **Stack:** Java SE, Java Swing, FlatLaf Modern Theme, Java Cryptography Architecture (JCA)
 - Modern graphical desktop application implementing AES (128/192/256-bit, CBC/ECB), RSA key pair generation (512-2048 bit), and SHA-1 cryptographic hashing.
 - Integrated with FlatLaf dark/light theme switching, SVG vector graphics, and custom animated navigation.
 
-### 6. [MDBoutique E-Commerce Platform & PWA](https://github.com/HossamAhmedSoft/mdboutique-ecommerce-pwa)
+### 7. [MDBoutique E-Commerce Platform & PWA](https://github.com/HossamAhmedSoft/mdboutique-ecommerce-pwa)
 > **Stack:** HTML5, CSS3, JavaScript ES6+, Service Workers (PWA), Supabase
 - Responsive luxury retail storefront and Progressive Web App with offline caching (`sw.js`).
 - Complete purchasing flow: product catalog, instant client-side filtering, persistent cart, checkout, payment confirmation, and administrative product management.
