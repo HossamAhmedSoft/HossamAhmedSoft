@@ -9,7 +9,7 @@
     </td>
     <td valign="middle">
       <h1>Hossam Ahmed (<code>@HossamAhmedSoft</code>)</h1>
-      <p><strong>Software Developer | Backend & Full-Stack Engineering | Embedded Systems & AI Enthusiast</strong></p>
+      <p><strong>Software Developer | Java Backend & Full-Stack Engineering | AI-Assisted Development | Embedded Systems</strong></p>
       <p>📍 Cairo, Egypt | 💻 ICT Year 2, New Cairo Technological University (NCTU)<br>
       🔗 <a href="https://github.com/HossamAhmedSoft">GitHub Profile</a> | 🌐 <a href="https://github.com/HossamAhmedSoft/portfolio-website">Interactive Portfolio Website</a> | ✉️ Contact: <code>Kabtinhosa@yahoo.com</code></p>
     </td>
@@ -34,7 +34,8 @@ I prioritize clean architecture, automated testing, end-to-end type safety, and 
 - **Databases & Cloud:** PostgreSQL, Supabase, Oracle Database, HikariCP, MySQL, Vercel
 - **Desktop & Systems:** Java Swing (FlatLaf), Python Tkinter, Visual Studio (MSVC), Serial Communication, WebSockets
 - **Embedded & Hardware:** Arduino Uno, Mega 2560, ESP32-CAM, Ultrasonic & Infrared Sensors, HD44780 LCD & Keypads
-- **Testing & Tooling:** Pytest / Unittest, JUnit 5, Git, GitHub Actions, ESLint, TypeScript Strict Mode
+- **Testing & Tooling:** Pytest / Unittest, JUnit 5, Git, GitHub Actions, ESLint, TypeScript Strict Mode, Maven
+- **AI-Assisted Development & Agents:** Cursor, Google Antigravity, Trae, Structured Prompt Engineering, Multi-Stage Workflow Planning
 
 ---
 
@@ -128,6 +129,67 @@ This operational experience directly motivated the engineering of the automated 
 > **Stack:** HTML5, CSS3, JavaScript ES6+, Service Workers (PWA), Supabase
 - Responsive luxury retail storefront and Progressive Web App with offline caching (`sw.js`).
 - Complete purchasing flow: product catalog, instant client-side filtering, persistent cart, checkout, payment confirmation, and administrative product management.
+
+---
+
+## 🤖 AI-Assisted Development & Workflow Automation
+
+I integrate modern AI coding agents, AI-assisted development tools, and structured prompt engineering into software engineering workflows. Rather than treating AI as an unstructured autocomplete or chatbot, I utilize it as a disciplined accelerator for codebase exploration, multi-step refactoring, implementation planning, test planning, and documentation generation—backed by strict human review, type-checking, and build verification.
+
+> ℹ️ **Engineering Distinction:** *AI-assisted software development* refers to using AI coding agents and prompt engineering to augment software delivery and maintainability. It is distinct from *machine learning engineering* or training deep learning models.
+
+### 🛠️ Verified AI Development Tools
+
+- **[Cursor](https://www.cursor.com):** AI-first code editor used for semantic codebase indexing, contextual symbol retrieval, inline code suggestions, and intelligent multi-file diffing.
+- **[Google Antigravity](https://antigravity.google):** Agentic engineering platform utilized for structured task orchestration, autonomous multi-file refactoring, terminal automation, and comprehensive test validation.
+- **[Trae](https://www.trae.ai):** Adaptive AI development environment applied to project workspace exploration and iterative feature scaffolding.
+
+### 🧩 Professional Prompt Engineering
+
+I approach prompt engineering as an engineering discipline for defining deterministic, repeatable development workflows. Using structured prompt packages (such as master execution prompts with role definitions and constraint boundaries), I engineer prompts that specify:
+
+- **Project Context & Architectural Grounding:** Explicit stack versions, architectural paradigms, and repository layout rules.
+- **Agent Role & Objective Scope:** Well-defined boundaries preventing scope creep or unauthorized modifications.
+- **Mandatory Repository Inspection:** Enforcing codebase inspection and reading active files before proposing edits.
+- **Technical Constraints & Acceptance Criteria:** Non-negotiables such as zero TypeScript errors, backward compatibility, and clean compile passes.
+- **Security & Privacy Boundaries:** Strict mandates against credential exposure, secret leakage, or unauthorized permission changes.
+- **Testing & Verification Mandates:** Requiring test execution (`mvnw test-compile`, `pytest`, `tsc --noEmit`) before declaring tasks complete.
+- **Anti-Hallucination Guardrails:** Explicit instructions forbidding fabricated metrics, imaginary dependencies, or false dates.
+
+### ⚙️ AI Workflow Planning & Agentic Development (10-Stage Lifecycle)
+
+For complex multi-step features, refactoring tasks, or full-stack integrations, I organize execution through a structured 10-stage lifecycle:
+
+```mermaid
+flowchart LR
+    A["1. Scope & Req."] --> B["2. Repo Inspection"]
+    B --> C["3. Decomposition"]
+    C --> D["4. Implementation Plan"]
+    D --> E["5. AI-Assisted Edits"]
+    E --> F["6. Human Review"]
+    F --> G["7. Build & Tests"]
+    G --> H["8. Docs & Specs"]
+    H --> I["9. Deploy Prep"]
+    I --> J["10. Final Verification"]
+```
+
+1. **Requirement Analysis & Scope Definition:** Clarifying functional requirements, edge cases, and performance criteria.
+2. **Repository & Architecture Inspection:** Grounding the agent with real workspace structure, active dependencies, and design patterns.
+3. **Task Decomposition & Prioritization:** Breaking complex requirements into modular, reviewable work chunks.
+4. **Implementation Planning:** Documenting target files, expected diff blocks, and rollback contingencies.
+5. **AI-Assisted Code Changes:** Employing coding agents to scaffold boilerplate, apply systematic edits, and automate repetitive transformations.
+6. **Human Review & Engineering Correction:** Auditing all AI-generated code for algorithmic correctness, architectural cohesion, and security pitfalls.
+7. **Automated Testing & Build Verification:** Executing strict compilers, linters, and unit/integration test suites to verify functionality.
+8. **Documentation Updates:** Synchronizing READMEs, API contracts, and architecture diagrams with the codebase.
+9. **Deployment Preparation:** Ensuring clean build artifacts, environment configuration, and version-control staging.
+10. **Final Validation & Reporting:** Validating live behavior, auditing git commits, and documenting delivery metrics.
+
+### 🔗 Practical Evidence in Real Projects
+
+- **[Troy FireBot](https://github.com/HossamAhmedSoft/arduino-robotics-and-embedded-systems):** AI-assisted decomposition of the multi-tier serial-to-WebSocket protocol bridge between the Arduino Mega firmware and the Node.js telemetry room.
+- **[GDG Operations & HR Platform](https://github.com/HossamAhmedSoft/hr-management-platform):** Orchestrated multi-file implementation across 17 Next.js 14 modules, verified by strict TypeScript checking (`tsc --noEmit`) with 0 errors across 38 commits.
+- **[Enterprise Employee Management REST API](https://github.com/HossamAhmedSoft/employee-management-api):** Planned Spring Security 6 stateless JWT filter chain test cases and OpenAPI Swagger contracts, verified with clean Apache Maven test builds (`mvnw test-compile`).
+- **[Classical Cryptography Toolkit](https://github.com/HossamAhmedSoft/classical-cryptography-toolkit):** Designed edge-case Pytest fixtures covering Tabula Recta matrices and Arabic Unicode normalization (100% pass rate across 69 tests in 0.023s).
 
 ---
 
