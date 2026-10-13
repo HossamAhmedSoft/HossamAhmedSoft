@@ -214,4 +214,4 @@ flowchart LR
 
 - **Core Languages:** Java, TypeScript, C++, Python, JavaScript, Embedded C
 - **Architectural Paradigms:** Microservices, OOP Design Patterns, Event-Driven GUIs, Real-Time Embedded Systems
-- **Repositories:** 100% standardized lowercase kebab-case, documented, and version-controlled.
+- **Repositories:** 22 public repositories, standardized structures, version-controlled with showcased projects in lowercase kebab-case.
