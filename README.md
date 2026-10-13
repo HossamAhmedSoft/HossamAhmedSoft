@@ -1,7 +1,11 @@
+<p align="center">
+  <img src="assets/branding/portfolio-logo.jpg" alt="Hossam Ahmed Software Engineering Logo" width="620" />
+</p>
+
 <table>
   <tr>
-    <td width="150" valign="middle" align="center">
-      <img src="assets/profile/hossam-ahmed.jpg" width="130" alt="Hossam Ahmed" style="border-radius: 50%;" />
+    <td width="130" valign="middle" align="center">
+      <img src="assets/profile/hossam-ahmed.jpg" width="115" alt="Hossam Ahmed" style="border-radius: 50%;" />
     </td>
     <td valign="middle">
       <h1>Hossam Ahmed (<code>@HossamAhmedSoft</code>)</h1>
